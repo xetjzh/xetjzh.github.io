@@ -1,0 +1,12 @@
+# .gitignore
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+.git*/
+themes/
+!themes/butterfly/_config.yml
+# 这里只备份主题的配置文件
