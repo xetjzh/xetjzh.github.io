@@ -3,7 +3,9 @@ title: Github学生包申请指南
 date: 2024-11-05 00:00:00
 cover: https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png
 ---
+
 #一、申请要求：#
+
 1.目前就读于授予学位或文凭的学习课程，如高中、中学、学院、大学、家庭学校或类似的教育机构。
 
 2.拥有可验证的学校颁发的电子邮件地址或可证明您当前学生身份的文件。
@@ -12,23 +14,27 @@ cover: https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png
 
 4.至少13岁。
 
-![申请要求](https://s2.loli.net/2023/11/08/dfATPRtHiGj7XMD.png)
+![](https://s2.loli.net/2023/11/08/dfATPRtHiGj7XMD.png)
 
-# 二、准备： #
+# 二、准备：
+
 1.GitHub账号（若有教育邮箱可直接用教育邮箱申请）
 
 *注册流程请自行搜索*
 
 2.教育邮箱（学校发放的edu.cn后缀的邮箱） /学生身份证明文件
 
-# 三、流程（全程请不要开加速） #
-1.登录![Github](https://github.com/)
+# 三、流程（全程请不要开加速）
+
+1.登录[Github](https://github.com/)
 
 2.开启双重身份验证（2FA）
 
-从2023年3月开始官方要求账号拥有双重身份验证（2FA），具体设置方法请参考官方文档![配置双重身份验证](https://docs.github.com/zh/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
+从2023年3月开始官方要求账号拥有双重身份验证（2FA），具体设置方法请参考官方文档
 
-3.打开![Get you GitHub benefits](https://education.github.com/discount_requests/application)页面
+[配置双重身份验证](https://docs.github.com/zh/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
+
+3.打开[education.github.com](https://education.github.com/discount_requests/application)页面
 
 4.选择student
 
@@ -48,7 +54,8 @@ cover: https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png
 
 11.点击绿色按钮提交等待github邮件。
 
-# 三、学校无信息注册方法 #
+# 三、学校无信息注册方法
+
 1.正常进行注册部分
 
 2.与正常情况不同的是会出现一个新页面（如下图）
@@ -71,7 +78,8 @@ PS：只需此处代理，其余不要
 
 9.此内容查看本文第二部分
 
-# 四、GitHub回执邮件 #
+# 四、GitHub回执邮件
+
 1.已提交等候回执
 
 ![](https://s2.loli.net/2023/12/01/1pQvf94SoidTsEh.png)
@@ -85,13 +93,15 @@ PS：只需此处代理，其余不要
 ![](https://s2.loli.net/2023/12/01/XYNgv6VrPlbRO4A.png)
 
 五、进入全球校园
+
 进入GitHub首页点击下图位置进入
 
 ![](https://s2.loli.net/2023/12/01/tPlsSLOVTn7kUFr.png)
 
 最后祝你申请成功！！
 
-# 关于续期 #
+# 关于续期
+
 如你还在学生阶段，github学生包会自动续期（没有请尝试重新认证，请参考流程三）
 
 azure会发送邮件到注册邮箱，让你续期点击邮件内链接使用GitHub登录即可续期
