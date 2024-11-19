@@ -22,10 +22,10 @@ menu:
    标签: /tags/ || fas fa-tags
    分类: /categories/ || fas fa-folder-open
    ACG||fas fa-list||hide:
-     动漫: /anime/
-     动漫电影: /movies/
-     里番: /hmv/
-   关于我: /about/
+     动漫: https://pan.xetjzh.live/Onedrive/%E5%8A%A8%E6%BC%AB
+     动漫电影: https://pan.xetjzh.live/Onedrive/%E5%8A%A8%E6%BC%AB%E7%94%B5%E5%BD%B1
+     里番: https://pan.xetjzh.live/Onedrive/H
+   关于我: https://github.com/xetjzh
 # --------------------------------------
 # Code Blocks Settings
 # --------------------------------------
