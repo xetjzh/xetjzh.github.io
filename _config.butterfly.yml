@@ -261,7 +261,7 @@ footer:
   owner:
     enable: true
     since: 2024
-  custom_text: 
+  custom_text: <a href="https://jk.xetjzh.live">服务可用性监控</a>
   # Copyright of theme and framework
   copyright: true
 
