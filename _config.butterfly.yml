@@ -22,9 +22,9 @@ menu:
    标签: /tags/ || fas fa-tags
    分类: /categories/ || fas fa-folder-open
    ACG||fas fa-list||hide:
-     动漫: https://pan.xetjzh.live/Onedrive/%E5%8A%A8%E6%BC%AB
-     动漫电影: https://pan.xetjzh.live/Onedrive/%E5%8A%A8%E6%BC%AB%E7%94%B5%E5%BD%B1
-     里番: https://pan.xetjzh.live/Onedrive/H
+     动漫: https://pan.xetjzh.com/Onedrive/%E5%8A%A8%E6%BC%AB
+     动漫电影: https://pan.xetjzh.com/Onedrive/%E5%8A%A8%E6%BC%AB%E7%94%B5%E5%BD%B1
+     里番: https://pan.xetjzh.com/Onedrive/H
    关于我: https://github.com/xetjzh
 # --------------------------------------
 # Code Blocks Settings
@@ -261,7 +261,7 @@ footer:
   owner:
     enable: true
     since: 2024
-  custom_text: <a href="https://jk.xetjzh.live">服务可用性监控</a>
+  custom_text: <a href="https://jk.xetjzh.com">服务可用性监控</a>
   # Copyright of theme and framework
   copyright: true
 

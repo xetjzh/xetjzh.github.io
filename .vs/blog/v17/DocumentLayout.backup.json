@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\hexo\\blog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\hexo\\blog\\source\\_posts\\Github\u5B66\u751F\u5305\u7533\u8BF7.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:source\\_posts\\Github\u5B66\u751F\u5305\u7533\u8BF7.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\hexo\\blog\\source\\_posts\\Github\u5B66\u751F\u5305\u7533\u8BF7.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:source\\_posts\\Github\u5B66\u751F\u5305\u7533\u8BF7.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,16 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,9 +24,9 @@
               "RelativeDocumentMoniker": "source\\_posts\\Github\u5B66\u751F\u5305\u7533\u8BF7.md",
               "ToolTip": "D:\\hexo\\blog\\source\\_posts\\Github\u5B66\u751F\u5305\u7533\u8BF7.md",
               "RelativeToolTip": "source\\_posts\\Github\u5B66\u751F\u5305\u7533\u8BF7.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAGwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-11-21T14:41:12.127Z",
+              "WhenOpened": "2025-06-12T15:19:48.19Z",
               "EditorCaption": ""
             }
           ]

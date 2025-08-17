@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\scaffolds",
     "\\source",
-    "\\source\\_posts"
+    "\\source\\_posts",
+    "\\source\\分类",
+    "\\source\\标签"
   ],
-  "SelectedNode": "\\source\\_posts\\Github\u5B66\u751F\u5305\u7533\u8BF7.md",
   "PreviewInSolutionExplorer": false
 }

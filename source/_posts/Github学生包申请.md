@@ -14,7 +14,7 @@ cover: https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png
 
 4.至少13岁。
 
-![](https://s2.loli.net/2023/11/08/dfATPRtHiGj7XMD.png)
+![申请要求](https://s2.loli.net/2023/11/08/dfATPRtHiGj7XMD.png)
 
 # 二、准备：
 
@@ -70,7 +70,7 @@ PS：只需此处代理，其余不要
 
 5.选择学校种类（翻译如下图）
 
-6.择学校人数
+6.选择学校人数
 
 7.填写学校地址（下图）顺序为街道，城市，国家
 
